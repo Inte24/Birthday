@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Hello My Love</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+
+<div id="sidebar">
+<a href="index.html">❤️</a>
+<a href="hello.html">👋</a>
+<a href="crossword.html">🔤</a>
+<a href="flipbook.html">📖</a>
+<a href="mindread.html">🧠</a>
+<a href="game.html">🎮</a>
+<a href="facts.html">🎂</a>
+<a href="thankyou.html">💌</a>
+</div>
+
+
+<div class="page-content">
+<h1>Happy Birthday, My Love ❤️</h1>
+<p>You deserve the happiest birthday in the universe.<br>
+Here’s a little something just for you…</p>
+</div>
+
+
+</body>
+</html>
